@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mikolaj-git
+- 👀 I’m interested in learning Front-end web development
+- 🌱 I’m currently learning CSS, HTML, RWD, JSS
+- 💞️ I’m looking to collaborate with companies that will allow me to gain experience in the work of a front end developer
+- 📫 How to reach me mikolaj.a.b@gmail.com
