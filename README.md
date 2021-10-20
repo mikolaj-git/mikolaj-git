@@ -34,5 +34,6 @@ JavaScript, </br>
 - 📫 How to reach me ...
 </br></br>
 Linkedin: https://www.linkedin.com/in/miko%C5%82aj-buczek-3b2013156/
+</br></br>
 gmail: mikolaj.a.b@gmail.com
 
