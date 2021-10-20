@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Mikolaj. 
 
-I started my adventure with coding this year. I have created this repository to show my progress in learing.
+This year I started my adventure with coding . I have created this repository to show my progress in learing.
 </br>
 - 👀 I'm looking for my first job as a front-end developer
 </br></br>
