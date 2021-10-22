@@ -18,7 +18,6 @@ Currently I'am working as a technical Help Desk Specialist. My responsibilities 
 > Support for proprietary IT systems
 </br>
 
-more in my CV (for people looking for employees)
 
 - 🌱 I’m currently learning 
 </br>
