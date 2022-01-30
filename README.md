@@ -7,15 +7,19 @@ This year I started my adventure with coding . I have created this repository to
 Currently I'am working as a technical Help Desk Specialist. My responsibilities include:
 </br></br>
 
-> Technical customer support for the operation of dedicated hardware and software
+> Respond to requests for technical assistance by phone, email or using the
+Help Desk management system
 
 > Analysis, diagnosis and repair of reported service incidents
 
-> Cooperation with senior specialists and management in solving complex problems
+> Cooperation in an international environment with senior specialists, L2,
+L3 and management in solving complex problems
 
-> Work in an international environment
+> Prioritize and schedule problems. Escalate problems (when required) to
+the appropriately experienced technician
 
-> Support for proprietary IT systems
+> Support for proprietary IT systems and devices (computers, printers,
+scanners etc.)
 </br>
 
 
@@ -27,11 +31,11 @@ SCSS, </br>
 RWD, </br>
 GIT/GITHUB, </br>
 JavaScript, </br>
-(React in the near future)
+(React in progress)
 </br></br>
 - 📫 How to reach me ...
 </br></br>
-Linkedin: https://www.linkedin.com/in/miko%C5%82aj-buczek-3b2013156/
+Linkedin: https://www.linkedin.com/in/mikolaj-buczek-3b2013156/
 </br></br>
 gmail: mikolaj.a.b@gmail.com
 
