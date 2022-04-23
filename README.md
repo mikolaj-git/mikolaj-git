@@ -31,7 +31,7 @@ SCSS, </br>
 RWD, </br>
 GIT/GITHUB, </br>
 JavaScript, </br>
-(React in progress)
+React
 </br></br>
 - 📫 How to reach me ...
 </br></br>
