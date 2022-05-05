@@ -26,10 +26,7 @@ scanners etc.)
 - 🌱 I’m currently learning 
 </br>
 HTML5, </br>
-CSS3, </br>
-SCSS, </br>
-RWD, </br>
-GIT/GITHUB, </br>
+CSS3 / SCSS, </br>
 JavaScript, </br>
 React
 </br></br>
