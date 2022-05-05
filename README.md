@@ -34,6 +34,8 @@ JavaScript, </br>
 React
 </br></br>
 - 📫 How to reach me ...
+- </br></br>
+website: https://www.mikolajbuczek.pl
 </br></br>
 Linkedin: https://www.linkedin.com/in/mikolaj-buczek-3b2013156/
 </br></br>
