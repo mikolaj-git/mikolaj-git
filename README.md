@@ -1,27 +1,8 @@
 - 👋 Hi, I'm Mikolaj. 
 
-In last year I started my adventure with coding. I created this repository to show my progress in learing.
-</br>
-- 👀 I'm looking for my first job as a front-end developer
-</br></br>
-Currently I'am working as a technical Help Desk Specialist. My responsibilities include:
-</br></br>
+My website: https://mikolajbuczek.pl/
 
-> Respond to requests for technical assistance by phone, email or using the
-Help Desk management system
-
-> Analysis, diagnosis and repair of reported service incidents
-
-> Cooperation in an international environment with senior specialists, L2,
-L3 and management in solving complex problems
-
-> Prioritize and schedule problems. Escalate problems (when required) to
-the appropriately experienced technician
-
-> Support for proprietary IT systems and devices (computers, printers,
-scanners etc.)
-</br>
-
+Hi, I'm Mikołaj Buczek and I live in Warsaw. It has been a year since I started my adventure with coding. After creating my first website, I wanted to become a front-end developer. I enjoy working on the computer and I have a lot of fun with learning and the creation process of web apps. I am highly motivated and focused on development in the IT industry. Currently I work at Diebold Nixdorf in the Help-Desk department. My duties include remotely solving problems related to the operation of applications, systems and devices. Currently In order to develop my skills and I'm looking for a new job as front-end developer.
 
 - 🌱 I’m currently learning 
 </br>
